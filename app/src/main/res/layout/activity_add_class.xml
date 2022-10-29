@@ -1,0 +1,118 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddClass"
+    android:clipToPadding="false"
+    android:overScrollMode="never"
+    android:padding="28dp"
+    android:scrollbars="none"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="52dp"
+            android:text="Add Class"
+            android:textColor="@color/primary"
+            android:textSize="23.40sp"
+            android:textStyle="bold" />
+
+
+        <EditText
+            android:id="@+id/addclass_subjectname"
+            android:layout_width="match_parent"
+            android:layout_height="58.50dp"
+            android:layout_marginTop="58.00dp"
+            android:background="@drawable/background_input"
+            android:hint="Enter Subject Name E.g Android"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="yes"
+            android:inputType="text"
+            android:paddingStart="20.80dp"
+            android:paddingEnd="16.00dp"
+            android:textColor="@color/primary_text"
+            android:textSize="16.90sp"/>
+
+
+        <EditText
+            android:id="@+id/addclass_year"
+            android:layout_width="match_parent"
+            android:layout_height="58.50dp"
+            android:layout_marginTop="22.00dp"
+            android:background="@drawable/background_input"
+            android:hint="Enter Class Year E.g 4"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="yes"
+            android:inputType="number"
+            android:paddingStart="20.80dp"
+            android:paddingEnd="16.00dp"
+            android:textColor="@color/primary_text"
+            android:textSize="16.90sp"/>
+
+        <EditText
+            android:id="@+id/addclass_semester"
+            android:layout_width="match_parent"
+            android:layout_height="58.50dp"
+            android:layout_marginTop="22.00dp"
+            android:background="@drawable/background_input"
+            android:hint="Enter Class Semester E.g 7"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="yes"
+            android:inputType="number"
+            android:paddingStart="20.80dp"
+            android:paddingEnd="16.00dp"
+            android:textColor="@color/primary_text"
+            android:textSize="16.90sp" />
+
+        <EditText
+            android:id="@+id/addclass_calender_year"
+            android:layout_width="match_parent"
+            android:layout_height="58.50dp"
+            android:layout_marginTop="22.00dp"
+            android:background="@drawable/background_input"
+            android:hint="Enter Calender Year E.g 2022"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="yes"
+            android:inputType="number"
+            android:paddingStart="20.80dp"
+            android:paddingEnd="16.00dp"
+            android:textColor="@color/primary_text"
+            android:textSize="16.90sp"/>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32.00dp"
+            android:animateLayoutChanges="true">
+
+            <Button
+                android:id="@+id/addclass_btn"
+                android:layout_width="match_parent"
+                android:layout_height="65.00dp"
+                android:text="add class"
+                android:textColor="@color/white"
+                android:textSize="16.90sp"
+                android:textStyle="bold"
+                app:cornerRadius="10.40dp"
+                />
+
+            <ProgressBar
+                android:id="@+id/addclass_progressBar"
+                android:layout_width="25.00dp"
+                android:layout_height="25.00dp"
+                android:layout_gravity="center"
+                android:visibility="invisible"/>
+        </FrameLayout>
+
+
+
+    </LinearLayout>
+</ScrollView>
