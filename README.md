@@ -22,15 +22,12 @@ Dependencies
 Add maven to the repsitories of both dependencyResolutionManagement and PluginManagement inside setting.gradle file
 maven { url 'https://jitpack.io' }
 
-![Screenshot_20221028-160003_Attendance Manager](https://user-images.githubusercontent.com/85395708/198847989-99a1a3f6-a930-4a63-b1ed-b70ec4e5464f.jpg)
-![Screenshot_20221028-160209_Attendance Manager](https://user-images.githubusercontent.com/85395708/198847993-ce026ab3-6b66-4ead-8c49-8b179dc1b042.jpg)
-![Screenshot_20221028-160217_Attendance Manager](https://user-images.githubusercontent.com/85395708/198847994-9a3b5b91-fce0-4904-b262-bc0b2237837b.jpg)
-![Screenshot_20221029-164145_Attendance Manager](https://user-images.githubusercontent.com/85395708/198847995-b86d360e-e669-4557-909b-d733ffdf6c29.jpg)
-![Screenshot_20221030-001146_Attendance Manager](https://user-images.githubusercontent.com/85395708/198847996-2fecb02b-c730-4dec-99e7-91ad8d23bee2.jpg)
-![Screenshot_20221030-001213_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848000-607627ca-9b06-4a07-9a20-3666150e0236.jpg)
-![Screenshot_20221030-001235_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848001-8e956209-67d3-46bd-8894-007143573934.jpg)
-![Screenshot_20221030-001246_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848002-116fa316-c7ac-4b6b-a50f-743fbd792b66.jpg)
-![Screenshot_20221030-001313_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848004-6450487b-316f-42f3-a2bb-88f498c5f6ad.jpg)
-![Screenshot_20221030-001327_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848008-5a3324ab-ce66-4f96-b080-5e1f13375212.jpg)
-![Screenshot_20221030-001544_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848009-e06ba4cd-d6d4-4111-a92b-8ae31c702cdf.jpg)
-![Screenshot_20221030-001551_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848011-c3b5dcb4-9e0b-4bef-925c-573bb79858bc.jpg)
+Images of App
+
+![Screenshot_20221028-160209_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848103-184388de-0db8-438f-9222-362d68d29dac.jpg)
+![Screenshot_20221028-160217_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848108-4c79c431-949b-4f37-8401-52c95bccaff7.jpg)
+![Screenshot_20221030-001146_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848114-057669db-a6e0-4406-bcea-f8643dfe7966.jpg)
+![Screenshot_20221030-001246_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848119-92e521ff-6ece-4d17-acb9-4537b16573bd.jpg)
+![Screenshot_20221030-001313_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848127-b537fd54-661f-4532-b1f1-2acf9050cc09.jpg)
+![Screenshot_20221030-001327_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848139-26ca8855-d5d2-4654-8195-7ba8314b8f37.jpg)
+![Screenshot_20221029-164145_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848143-1dbc7860-ddfb-4b91-9c1b-5b7f5f298b7d.jpg)
