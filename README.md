@@ -1,6 +1,8 @@
 # AttendenceTaker
-An Android app to make attendance taking job easy and fun.You just have to swipe to take attendace and all your attendance will be store in firebase database
+An Android app to make attendance taking job easy and fun.You just have to swipe to take attendace and all your attendance will be store in firebase database.
+
 Dependencies
+
     implementation 'androidx.appcompat:appcompat:1.5.1'
     implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
