@@ -32,4 +32,4 @@ Images of App
 ![Screenshot_20221030-001327_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848139-26ca8855-d5d2-4654-8195-7ba8314b8f37.jpg)
 ![Screenshot_20221029-164145_Attendance Manager](https://user-images.githubusercontent.com/85395708/198848143-1dbc7860-ddfb-4b91-9c1b-5b7f5f298b7d.jpg)
 
-If yeas is pressed then 3 randomly genrated nos will be provided to the professor 😎
+If yeas is pressed then 3 randomly generated nos will be provided to the professor 😎
